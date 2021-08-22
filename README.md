@@ -1,2 +1,3 @@
 # MarketingAnalyticsPython
-Marketing Analytics in Python
+MAR6668 Marketing Analytics I in Python
+Instructor: Tianxin Zou
