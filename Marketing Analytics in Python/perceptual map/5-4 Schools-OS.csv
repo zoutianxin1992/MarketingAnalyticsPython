@@ -1,0 +1,10 @@
+,Chicago,Wharton,Harvard,Cornell,Stanford,Northwestern,Dartmouth,Columbia,MIT Sloan
+Chicago,0,3,9,10,3,5,7,8,0
+Wharton,3,0,6,10,0,3,7,8,2
+Harvard,9,6,0,9,6,4,7,8,8
+Cornell,10,10,9,0,10,7,3,2,9
+Stanford,3,0,6,10,0,3,7,8,3
+Northwestern,5,3,4,7,3,0,4,5,4
+Dartmouth,7,7,7,3,7,4,0,1,6
+Columbia,8,8,8,2,8,5,1,0,7
+MIT Sloan,0,2,8,9,3,4,6,7,0
